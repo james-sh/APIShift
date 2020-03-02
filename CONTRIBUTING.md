@@ -57,3 +57,4 @@ I prefer option 1.
  * Building and integrating a modular and configurable system for [analyzing data and usage](machine/core/Analyzer.php) on the system. And integrating it into the UI of the [control panel](control) and the whole core files so that it will work "under the surface".
  * Creative ideas that can be related and help the users of the system are more than welcome.
 
+test
